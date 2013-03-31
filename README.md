@@ -7,7 +7,8 @@ User folder with this content:
 
 ```json
 {
-  'date_format':'%d/%m/%Y'
+  "date_format":"%d/%m/%Y",
+  "time_format":"%d/%m/%Y %H:%M"
 }
 ```
 

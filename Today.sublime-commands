@@ -2,5 +2,9 @@
   {
     "caption": "Today: Insert date",
     "command": "today"
+  },
+  {
+    "caption": "Today: Insert time",
+    "command": "now"
   }
 ]
